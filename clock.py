@@ -5,7 +5,7 @@ import datetime
 import pygame
 
 def set_alarm(alarm_time):
-    
+    print(f"Alarm set for ")
 
 
 if __name__ == "__main__": 
