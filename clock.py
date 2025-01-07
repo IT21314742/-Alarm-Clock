@@ -10,7 +10,7 @@ def set_alarm(alarm_time):
     is_running = True
 
     while is_running:
-        current_time = datetime
+        current_time = datetime.
 
 
 
