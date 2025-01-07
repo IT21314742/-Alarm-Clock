@@ -9,7 +9,7 @@ def set_alarm(alarm_time):
     sound_file = "mp3.mp3"
     is_running = True
 
-    while is_running
+    while is_running:
 
 
 
