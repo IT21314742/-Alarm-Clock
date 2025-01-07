@@ -11,7 +11,7 @@ def set_alarm(alarm_time):
 
     while is_running:
         current_time = datetime.datetime.now().strftime("%H:%M:%S")
-        print()
+        print(current_time)
 
 
 
