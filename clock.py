@@ -16,6 +16,8 @@ def set_alarm(alarm_time):
     if current_time == alarm_time:
         print("Wake Up Vihan")
 
+        pygame
+
         is_running = False
 
         time.sleep(1)
