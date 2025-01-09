@@ -17,7 +17,7 @@ def set_alarm(alarm_time):
         print("Wake Up Vihan")
 
         pygame.mixer.init()
-        pygame.mixer
+        pygame.mixer.music
 
         is_running = False
 
