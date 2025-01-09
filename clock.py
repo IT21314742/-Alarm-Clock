@@ -16,7 +16,7 @@ def set_alarm(alarm_time):
     if current_time == alarm_time:
         print("Wake Up Vihan")
 
-        is_running = 
+        is_running = False
 
         time.sleep(1)
 
