@@ -16,7 +16,7 @@ def set_alarm(alarm_time):
     if current_time == alarm_time:
         print("Wake Up Vihan")
 
-        pygame
+        pygame.mixer
 
         is_running = False
 
