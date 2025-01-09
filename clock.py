@@ -18,7 +18,7 @@ def set_alarm(alarm_time):
 
         pygame.mixer.init()
         pygame.mixer.music.load(sound_file)
-        pygame.mixer
+        pygame.mixer.music
 
         is_running = False
 
