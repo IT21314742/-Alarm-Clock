@@ -21,7 +21,7 @@ def set_alarm(alarm_time):
         pygame.mixer.music.play()
 
         while pygame.mixer.music.get_busy():
-            time
+            time.sleep
 
         is_running = False
 
