@@ -14,7 +14,7 @@ def set_alarm(alarm_time):
         print(current_time)
 
     if current_time == alarm_time:
-        print
+        print()
 
         time.sleep(1)
 
