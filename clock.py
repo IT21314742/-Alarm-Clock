@@ -13,7 +13,7 @@ def set_alarm(alarm_time):
         current_time = datetime.datetime.now().strftime("%H:%M:%S")
         print(current_time)
 
-    if current_time == alarm_time
+    if current_time == alarm_time:
 
         time.sleep(1)
 
