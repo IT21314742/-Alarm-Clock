@@ -26,6 +26,7 @@ def set_alarm(alarm_time):
         is_running = False
 
         time.sleep(1)
+        
 
 if __name__ == "__main__": 
     alarm_time = input("Enter the alarm time (HH:MM:SS): ")
